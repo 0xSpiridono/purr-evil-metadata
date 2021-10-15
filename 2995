@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #2995",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/2995.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "12"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Dracul"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 3 Green"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Demon Magenta"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns Curly Purple"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tentacles Magenta"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "Love"
+        }
+    ]
+}

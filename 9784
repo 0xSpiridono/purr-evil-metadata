@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #9784",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/9784.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "12"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 4 White"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Smoke"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Bloody Halo"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "Elder Sign"
+        }
+    ]
+}

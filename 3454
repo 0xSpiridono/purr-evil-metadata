@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #3454",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/3454.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "4"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 2 Green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 3 Green"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Small Horns Magenta"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Birdie"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "Elder Sign"
+        }
+    ]
+}

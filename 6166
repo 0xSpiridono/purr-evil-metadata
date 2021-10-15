@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #6166",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/6166.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "7"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 3 White"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 3 White"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Cyborg"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns 1 Bloody"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Light Leak Pink"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "Cross"
+        }
+    ]
+}

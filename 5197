@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #5197",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/5197.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "7"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tunic Green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 1 Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Evil Green Cross"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns 1 Red"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tame"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

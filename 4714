@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #4714",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/4714.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "5"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 1 Red"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 1 Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Hockey Mask"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "Pentagram"
+        }
+    ]
+}

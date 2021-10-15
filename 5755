@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #5755",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/5755.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "13"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Spikes"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 2 Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Evil Black"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns 4 Bloody"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Predator"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "Love"
+        }
+    ]
+}

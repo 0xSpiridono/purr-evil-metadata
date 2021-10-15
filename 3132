@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #3132",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/3132.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "7"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 2 White"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 3 White"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Monoeye"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns 1 Red"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grumpy"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

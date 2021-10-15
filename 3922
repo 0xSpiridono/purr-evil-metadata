@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #3922",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/3922.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "9"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Rags"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 4 White"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Purple"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns Curly Red"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ghoul"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

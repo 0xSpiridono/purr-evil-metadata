@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #5191",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/5191.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "10"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Spikes"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 2 White"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Grant Us Eyes"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns 2 Purple"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Goo"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

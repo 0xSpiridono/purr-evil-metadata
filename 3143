@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #3143",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/3143.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "8"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 4 Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scar Eyeball"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Small Horns Red"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grumpy"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

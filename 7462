@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #7462",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/7462.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "6"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 2 Purple"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 3 Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "White"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Pentagram"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Licker Green"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #403",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/403.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "9"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Cyborg"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 4 Cyborg"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bars"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

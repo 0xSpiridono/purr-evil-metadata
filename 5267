@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #5267",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/5267.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "7"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Fancy"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 4 Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Too Many Eyes"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Bloody Halo"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Stitched"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

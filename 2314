@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #2314",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/2314.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "6"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Rags"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 1 Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Round Red"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Small Horns Green"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Long Tentacle Red"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "Cross"
+        }
+    ]
+}

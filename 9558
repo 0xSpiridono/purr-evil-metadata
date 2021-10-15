@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #9558",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/9558.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "11"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 1 Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Brain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Licker Red"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

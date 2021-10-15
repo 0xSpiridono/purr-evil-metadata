@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #6714",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/6714.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "9"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tunic Blue"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 3 Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Evil Magenta Cross"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Grenades"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Hissing"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

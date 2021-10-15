@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #971",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/971.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "9"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 2 White"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 3 White"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Evil Yellow"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Bloody Halo"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Hissing"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

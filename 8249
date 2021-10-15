@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #8249",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/8249.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "8"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 2 Purple"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 1 Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scar Eyeball"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Small Horns Red"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Leach"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "Love"
+        }
+    ]
+}

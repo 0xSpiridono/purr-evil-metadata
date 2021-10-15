@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #9855",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/9855.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "10"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Padre"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 4 White"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Goo Green"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns 5 Green"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Mouse Eater"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "Cross"
+        }
+    ]
+}

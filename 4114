@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #4114",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/4114.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "8"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 3 Yellow"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 4 Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Evil Green Cross"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns Curly Purple"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Nails"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "Elder Sign"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #4895",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/4895.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "11"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Padre"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 4 Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Evil Green"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns 4 Magenta"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Predator"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

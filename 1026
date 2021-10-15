@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #1026",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1026.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "10"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tunic Green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 2 Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Worms Red"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cyborg"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

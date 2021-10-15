@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #6638",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/6638.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "5"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 3 White"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 3 White"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Evil Magenta"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Cross"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tame"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

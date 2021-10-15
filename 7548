@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #7548",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/7548.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "9"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Padre"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 1 Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Round Magenta"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns 4 Bloody"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tentacles Green"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "Love"
+        }
+    ]
+}

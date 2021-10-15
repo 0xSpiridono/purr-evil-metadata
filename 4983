@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #4983",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/4983.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "7"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 2 Red"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 2 Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Evil Green"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Small Horns Magenta"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Hissing"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

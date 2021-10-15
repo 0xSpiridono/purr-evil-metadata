@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #9046",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/9046.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "8"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 4 Teal"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Evil Round Purple"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Pentagram"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #6816",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/6816.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "12"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Cyborg"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 3 Cyborg"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Five Eyes"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns Curly Red"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cyborg"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

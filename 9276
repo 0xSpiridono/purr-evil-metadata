@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #9276",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/9276.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "7"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Suit"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 4 Green"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Too Many Eyes"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Small Horns Green"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Licker Red"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

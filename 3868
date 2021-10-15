@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #3868",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/3868.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "11"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 1 Red"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 1 Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Angry Blue"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns 2 Red"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Nails"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #8980",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/8980.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "8"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Fancy"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 1 Teal"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Demon Green"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Cross"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Gambler"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

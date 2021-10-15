@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #9261",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/9261.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "6"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Bowtie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 2 Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Hypno"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Small Horns Red"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

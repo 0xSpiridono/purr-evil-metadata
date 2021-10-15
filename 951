@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #951",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/951.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "4"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 1 Purple"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 3 Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Round Magenta"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Small Horns Red"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grumpy"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "Witch"
+        }
+    ]
+}

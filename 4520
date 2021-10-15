@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #4520",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/4520.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "6"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tunic Green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 2 Green"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Innocent"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Steroids"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tame"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

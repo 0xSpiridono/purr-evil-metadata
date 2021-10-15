@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #666",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/666.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "666"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Fancy"
+        },
+        {
+            "trait_type": "Head",
+            "value": "The Devil Himself"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Flame"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Seal of Hell"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Licker Red"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "Cross"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #7889",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/7889.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "11"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Spikes"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 4 Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Demon Green"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Small Horns Red"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sharp Grin"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

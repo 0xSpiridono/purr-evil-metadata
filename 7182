@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #7182",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/7182.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "10"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Fancy"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 1 Teal"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Evil Magenta Cross"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns 5 Red"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cheshire"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

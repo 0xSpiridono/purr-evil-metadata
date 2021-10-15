@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #4287",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/4287.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "8"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 3 Teal"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black Red"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Thorns"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bloodthirsty"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

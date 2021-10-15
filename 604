@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #604",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/604.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "10"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 2 Purple"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 1 Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Bloody Halo"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Licker Red"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

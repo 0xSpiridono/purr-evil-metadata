@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #3361",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/3361.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "9"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 3 White"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 2 White"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Demon Green"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns 2 Purple"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cyborg"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "Love"
+        }
+    ]
+}

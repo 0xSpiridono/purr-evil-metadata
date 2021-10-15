@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #5180",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/5180.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "10"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tunic Blue"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 2 Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Five Eyes"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Cross"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sharp Grin"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "Elder Sign"
+        }
+    ]
+}

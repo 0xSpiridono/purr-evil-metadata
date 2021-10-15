@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #884",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/884.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "9"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 3 Green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 4 Green"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Evil Round Red"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Iron Halo"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Licker Red"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "Elder Sign"
+        }
+    ]
+}

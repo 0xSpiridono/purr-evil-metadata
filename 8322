@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #8322",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/8322.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "10"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Fancy"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 1 Teal"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Demon Magenta"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns 4 Bloody"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Side Fang"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

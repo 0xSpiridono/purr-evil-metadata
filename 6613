@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #6613",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/6613.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "12"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Spikes"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 4 White"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Evil Round Purple"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns 3 Green"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cannibal Mask"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

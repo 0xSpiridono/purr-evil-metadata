@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #4224",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/4224.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "6"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 1 White"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 1 White"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Round Magenta"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns 5 Bloody"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Light Leak Green"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

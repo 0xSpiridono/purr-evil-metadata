@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #198",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/198.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "7"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Padre"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 3 Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Round Magenta"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Golden Halo"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tentacles Green"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

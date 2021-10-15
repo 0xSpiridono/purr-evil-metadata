@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #6764",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/6764.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "10"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 2 Yellow"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 3 Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Demon Green"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Bot Eye Purple"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Predator"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

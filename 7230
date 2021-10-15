@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #7230",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/7230.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "6"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Bowtie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 3 Teal"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tentacles"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Goo"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

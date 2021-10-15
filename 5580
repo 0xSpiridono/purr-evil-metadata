@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #5580",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/5580.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "10"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Padre"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 3 Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Four Eyes"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns 2 Magenta"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Evil Clown"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

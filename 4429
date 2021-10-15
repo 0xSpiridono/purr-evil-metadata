@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #4429",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/4429.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "11"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 2 Purple"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 4 Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Goo Green"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns 1 Bloody"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "Witch"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #4059",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/4059.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "10"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 1 Purple"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 1 Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Goo Red"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Morgensterns"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "Elder Sign"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #1925",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1925.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "8"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 1 Green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 3 Green"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Evil Round Red"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns 1 Bloody"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "Love"
+        }
+    ]
+}

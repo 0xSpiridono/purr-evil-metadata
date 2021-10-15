@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #9418",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/9418.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "12"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Cyborg"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 4 Cyborg"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Rolled"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Grenades"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cyborg"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

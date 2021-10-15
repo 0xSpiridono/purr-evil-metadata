@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #5389",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/5389.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "9"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 3 Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Spider"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Tear"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Light Leak Green"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "Elder Sign"
+        }
+    ]
+}

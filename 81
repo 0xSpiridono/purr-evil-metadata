@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #81",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/81.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "6"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 1 White"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 2 White"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Evil Yellow Cross"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Pentagram"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ghoul"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

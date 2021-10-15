@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #6275",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/6275.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "11"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 3 Purple"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 2 Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Demon Red"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Crown of Evil"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "Elder Sign"
+        }
+    ]
+}

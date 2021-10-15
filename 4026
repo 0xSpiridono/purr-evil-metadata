@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #4026",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/4026.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "5"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 2 Red"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 1 Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Spiral"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Nails"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

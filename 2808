@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #2808",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/2808.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "10"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 3 Teal"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 4 Teal"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns 5 Green"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Hissing"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

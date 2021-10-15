@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #9419",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/9419.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "8"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 1 Teal"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 1 Teal"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Purple"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns 4 Magenta"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cheshire"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "Elder Sign"
+        }
+    ]
+}

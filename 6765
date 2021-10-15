@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #6765",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/6765.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "13"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Spikes"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 4 Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Demon Green"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns 1 Bloody"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Predator"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "Pentagram"
+        }
+    ]
+}

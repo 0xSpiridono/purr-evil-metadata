@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #6944",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/6944.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "9"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tunic Green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 3 Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Evil Magenta Cross"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Worms Green"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Mouse Eater"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

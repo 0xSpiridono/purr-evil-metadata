@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #5577",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/5577.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "11"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 4 Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Snake"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns 1 Red"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sharp Grin"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

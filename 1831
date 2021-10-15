@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #1831",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1831.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "6"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 1 Green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 3 Green"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Evil Green Cross"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Small Horns Magenta"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bloodthirsty"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

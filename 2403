@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #2403",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/2403.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "12"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tunic Green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 4 Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Spider"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns 4 Magenta"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Nails"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "Elder Sign"
+        }
+    ]
+}

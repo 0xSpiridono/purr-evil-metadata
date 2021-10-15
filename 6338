@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #6338",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/6338.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "9"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 2 Yellow"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 4 Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Evil Hypno"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns 3 Green"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cheshire"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

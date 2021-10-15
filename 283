@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #283",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/283.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "10"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Suit"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 2 Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Evil Yellow Cross"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns Straight"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Goo"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "Elder Sign"
+        }
+    ]
+}

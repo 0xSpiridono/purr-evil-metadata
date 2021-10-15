@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #9889",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/9889.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "9"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Fancy"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 4 Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Evil Round Red"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Toy Horns"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cannibal Mask"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "Pentagram"
+        }
+    ]
+}

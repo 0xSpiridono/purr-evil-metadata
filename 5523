@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #5523",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/5523.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "11"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 3 Yellow"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 3 Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Angry Blue"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Bloody Halo"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bars"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

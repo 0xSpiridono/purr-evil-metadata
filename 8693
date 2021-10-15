@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #8693",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/8693.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "10"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 2 Teal"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 4 Teal"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Skulls Green"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Claws"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

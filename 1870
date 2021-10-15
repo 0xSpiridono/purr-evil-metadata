@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #1870",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1870.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "12"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 1 Red"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 4 Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scar Eyeball"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Spikes"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sharp Grin"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

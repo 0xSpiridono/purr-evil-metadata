@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #1958",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1958.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "15"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 4 Green"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Smoke"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Morgensterns"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

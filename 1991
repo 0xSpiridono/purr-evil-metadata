@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #1991",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1991.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "6"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 1 Green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 1 Green"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Silly"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns 2 Magenta"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tame"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

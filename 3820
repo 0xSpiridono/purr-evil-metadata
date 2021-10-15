@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #3820",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/3820.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "8"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Bowtie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 3 White"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Evil Green"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Crown of Sorrow"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Side Fang"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

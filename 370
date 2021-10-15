@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #370",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/370.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "6"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tunic Green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 4 Teal"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Toxic"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns Curly Green"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grumpy"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

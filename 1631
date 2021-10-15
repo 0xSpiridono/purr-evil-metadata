@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #1631",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1631.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "13"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Cyborg"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 2 Cyborg"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Smoke"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Iron Halo"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Mouse Eater"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

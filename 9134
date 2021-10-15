@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #9134",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/9134.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "6"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 3 Green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 1 Green"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Round Red"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Grenades"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Side Fang"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

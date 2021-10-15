@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #4807",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/4807.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "10"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Cyborg"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 2 Cyborg"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Evil Magenta"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Thorns"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Evil Clown"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

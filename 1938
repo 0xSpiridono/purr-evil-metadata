@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #1938",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1938.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "9"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 2 Teal"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 2 Teal"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Evil Black"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns Curly Purple"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Evil Clown"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "Witch"
+        }
+    ]
+}

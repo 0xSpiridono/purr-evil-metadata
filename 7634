@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #7634",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/7634.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "6"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 3 White"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 4 White"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "White"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns 2 Red"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tame"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "None"
+        }
+    ]
+}

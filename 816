@@ -1,0 +1,35 @@
+{
+    "name": "Purr Evil #816",
+    "external_link": "https://purrevil.cat/",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/816.png",
+    "attributes": [
+        {
+            "trait_type": "Evilness",
+            "value": "6"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body 2 Red"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head 3 Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Round Green"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Worms Green"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Birdie"
+        },
+        {
+            "trait_type": "Pendant",
+            "value": "Elder Sign"
+        }
+    ]
+}
