@@ -1,31 +1,31 @@
 {
-    "name": "Purr Evil #769 Abaddon",
+    "name": "Purr Evil #769",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmXBvsi7srxXLYwhMoPHWmeVmhG567sjR1uXVRQzJUrsCZ?filename=Abaddon.jpg",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/769.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "66"
+            "value": "5"
         },
         {
             "trait_type": "Body",
-            "value": "Demon"
+            "value": "Body 3 Yellow"
         },
         {
             "trait_type": "Head",
-            "value": "Demon"
+            "value": "Head 3 Yellow"
         },
         {
             "trait_type": "Eyes",
-            "value": "Demon"
+            "value": "Innocent"
         },
         {
             "trait_type": "Headgear",
-            "value": "Demon"
+            "value": "Bot Eye Metal"
         },
         {
             "trait_type": "Mouth",
-            "value": "Demon"
+            "value": "Tame"
         },
         {
             "trait_type": "Pendant",
