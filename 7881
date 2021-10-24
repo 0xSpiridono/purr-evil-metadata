@@ -1,35 +1,35 @@
 {
     "name": "Purr Evil #7881",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/7881.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1180.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "9"
+            "value": "11"
         },
         {
             "trait_type": "Body",
-            "value": "Body 1 White"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Head 4 White"
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Grant Us Eyes"
-        },
-        {
-            "trait_type": "Headgear",
             "value": "Spikes"
         },
         {
+            "trait_type": "Head",
+            "value": "Head 3 Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scar Blind"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns 5 Bloody"
+        },
+        {
             "trait_type": "Mouth",
-            "value": "Bars"
+            "value": "Light"
         },
         {
             "trait_type": "Pendant",
-            "value": "Witch"
+            "value": "Love"
         }
     ]
 }

@@ -1,31 +1,31 @@
 {
     "name": "Purr Evil #4667",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/4667.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1136.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "10"
+            "value": "5"
         },
         {
             "trait_type": "Body",
-            "value": "Surgeon"
+            "value": "Body 2 Green"
         },
         {
             "trait_type": "Head",
-            "value": "Head 3 Teal"
+            "value": "Head 3 Green"
         },
         {
             "trait_type": "Eyes",
-            "value": "Skulls Green"
+            "value": "Snake"
         },
         {
             "trait_type": "Headgear",
-            "value": "Crown of Evil"
+            "value": "Golden Halo"
         },
         {
             "trait_type": "Mouth",
-            "value": "Grumpy"
+            "value": "Tame"
         },
         {
             "trait_type": "Pendant",

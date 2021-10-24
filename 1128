@@ -1,31 +1,31 @@
 {
     "name": "Purr Evil #1128",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1128.png",
+    "image": "https://ipfs.io/ipfs/QmX6yz7GDPQBJQRGHirsYDzC4zbPuiBgmDwps96Wm6D9MB?filename=Beelzebub%20Unrevealed.PNG",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "9"
+            "value": "66"
         },
         {
             "trait_type": "Body",
-            "value": "Bowtie"
+            "value": "Beelzebub"
         },
         {
             "trait_type": "Head",
-            "value": "Head 4 Red"
+            "value": "Demon"
         },
         {
             "trait_type": "Eyes",
-            "value": "Demon Green"
+            "value": "Demon"
         },
         {
             "trait_type": "Headgear",
-            "value": "Crown of Decay"
+            "value": "Demon"
         },
         {
             "trait_type": "Mouth",
-            "value": "Ghoul"
+            "value": "Demon"
         },
         {
             "trait_type": "Pendant",

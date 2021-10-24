@@ -1,31 +1,31 @@
 {
     "name": "Purr Evil #8883",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/8883.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1209.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "8"
+            "value": "5"
         },
         {
             "trait_type": "Body",
-            "value": "Spikes"
+            "value": "Body 1 Green"
         },
         {
             "trait_type": "Head",
-            "value": "Head 1 Teal"
+            "value": "Head 4 Green"
         },
         {
             "trait_type": "Eyes",
-            "value": "Spiral"
-        },
-        {
-            "trait_type": "Headgear",
             "value": "None"
         },
         {
+            "trait_type": "Headgear",
+            "value": "Hockey Mask"
+        },
+        {
             "trait_type": "Mouth",
-            "value": "Predator"
+            "value": "None"
         },
         {
             "trait_type": "Pendant",

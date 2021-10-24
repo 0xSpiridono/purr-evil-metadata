@@ -1,7 +1,7 @@
 {
     "name": "Purr Evil #8616",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/8616.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1195.png",
     "attributes": [
         {
             "trait_type": "Evilness",
@@ -9,23 +9,23 @@
         },
         {
             "trait_type": "Body",
-            "value": "Surgeon"
+            "value": "Padre"
         },
         {
             "trait_type": "Head",
-            "value": "Head 1 Yellow"
+            "value": "Head 2 Teal"
         },
         {
             "trait_type": "Eyes",
-            "value": "Skulls Green"
+            "value": "Round Magenta"
         },
         {
             "trait_type": "Headgear",
-            "value": "Steroids"
+            "value": "Claws"
         },
         {
             "trait_type": "Mouth",
-            "value": "Long Tentacle Red"
+            "value": "Bloody"
         },
         {
             "trait_type": "Pendant",

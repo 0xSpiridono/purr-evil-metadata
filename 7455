@@ -1,7 +1,7 @@
 {
     "name": "Purr Evil #7455",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/7455.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1173.png",
     "attributes": [
         {
             "trait_type": "Evilness",
@@ -9,23 +9,23 @@
         },
         {
             "trait_type": "Body",
-            "value": "Fancy"
+            "value": "Padre"
         },
         {
             "trait_type": "Head",
-            "value": "Head 4 Purple"
+            "value": "Head 1 Red"
         },
         {
             "trait_type": "Eyes",
-            "value": "Round Red"
+            "value": "Grumpy"
         },
         {
             "trait_type": "Headgear",
-            "value": "Iron Halo"
+            "value": "Horns 1 Bloody"
         },
         {
             "trait_type": "Mouth",
-            "value": "Evil Clown"
+            "value": "Hissing"
         },
         {
             "trait_type": "Pendant",

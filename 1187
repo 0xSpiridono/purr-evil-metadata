@@ -1,35 +1,35 @@
 {
     "name": "Purr Evil #1187",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1187.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/8298.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "10"
+            "value": "8"
         },
         {
             "trait_type": "Body",
-            "value": "Tunic Green"
+            "value": "Suit"
         },
         {
             "trait_type": "Head",
-            "value": "Head 4 White"
+            "value": "Head 1 Purple"
         },
         {
             "trait_type": "Eyes",
-            "value": "Rolled"
+            "value": "Five Eyes"
         },
         {
             "trait_type": "Headgear",
-            "value": "Golden Halo"
+            "value": "Small Horns Green"
         },
         {
             "trait_type": "Mouth",
-            "value": "Hissing"
+            "value": "Bloodthirsty"
         },
         {
             "trait_type": "Pendant",
-            "value": "None"
+            "value": "Elder Sign"
         }
     ]
 }

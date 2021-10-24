@@ -1,7 +1,7 @@
 {
     "name": "Purr Evil #1226",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1226.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/9549.png",
     "attributes": [
         {
             "trait_type": "Evilness",
@@ -9,23 +9,23 @@
         },
         {
             "trait_type": "Body",
-            "value": "Fancy"
+            "value": "Body 2 White"
         },
         {
             "trait_type": "Head",
-            "value": "Head 2 Teal"
+            "value": "Head 2 White"
         },
         {
             "trait_type": "Eyes",
-            "value": "White"
+            "value": "Evil Round Purple"
         },
         {
             "trait_type": "Headgear",
-            "value": "Horns 4 Bloody"
+            "value": "Brain"
         },
         {
             "trait_type": "Mouth",
-            "value": "Long Tentacle Red"
+            "value": "Bloodthirsty"
         },
         {
             "trait_type": "Pendant",

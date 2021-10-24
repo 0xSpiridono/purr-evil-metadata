@@ -1,11 +1,11 @@
 {
     "name": "Purr Evil #1148",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1148.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/6167.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "10"
+            "value": "12"
         },
         {
             "trait_type": "Body",
@@ -13,23 +13,23 @@
         },
         {
             "trait_type": "Head",
-            "value": "Head 1 Yellow"
+            "value": "Head 2 Green"
         },
         {
             "trait_type": "Eyes",
-            "value": "Evil Round Purple"
+            "value": "Scar Eyeball"
         },
         {
             "trait_type": "Headgear",
-            "value": "Horns 1 Red"
+            "value": "Horns 4 Magenta"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cannibal Mask"
+            "value": "Smile"
         },
         {
             "trait_type": "Pendant",
-            "value": "Elder Sign"
+            "value": "Witch"
         }
     ]
 }

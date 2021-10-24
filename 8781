@@ -1,31 +1,31 @@
 {
     "name": "Purr Evil #8781",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/8781.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1206.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "10"
+            "value": "8"
         },
         {
             "trait_type": "Body",
-            "value": "Cyborg"
+            "value": "Body 2 Teal"
         },
         {
             "trait_type": "Head",
-            "value": "Head 1 Cyborg"
+            "value": "Head 1 Teal"
         },
         {
             "trait_type": "Eyes",
-            "value": "Cyborg"
+            "value": "White"
         },
         {
             "trait_type": "Headgear",
-            "value": "Iron Halo"
+            "value": "Crown of Evil"
         },
         {
             "trait_type": "Mouth",
-            "value": "Light Leak Yellow"
+            "value": "Goo"
         },
         {
             "trait_type": "Pendant",

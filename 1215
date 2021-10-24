@@ -1,7 +1,7 @@
 {
     "name": "Purr Evil #1215",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1215.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/9133.png",
     "attributes": [
         {
             "trait_type": "Evilness",
@@ -9,27 +9,27 @@
         },
         {
             "trait_type": "Body",
-            "value": "Tunic Blue"
+            "value": "Tunic Green"
         },
         {
             "trait_type": "Head",
-            "value": "Head 1 Yellow"
+            "value": "Head 2 White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Monoeye"
+            "value": "Scar Eyeball"
         },
         {
             "trait_type": "Headgear",
-            "value": "Pentagram"
+            "value": "Horns 3 Red"
         },
         {
             "trait_type": "Mouth",
-            "value": "Hissing"
+            "value": "Tame"
         },
         {
             "trait_type": "Pendant",
-            "value": "Witch"
+            "value": "Cross"
         }
     ]
 }

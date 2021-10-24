@@ -1,7 +1,7 @@
 {
     "name": "Purr Evil #1160",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1160.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/6827.png",
     "attributes": [
         {
             "trait_type": "Evilness",
@@ -9,23 +9,23 @@
         },
         {
             "trait_type": "Body",
-            "value": "Body 1 Green"
+            "value": "Spikes"
         },
         {
             "trait_type": "Head",
-            "value": "Head 3 Green"
+            "value": "Head 1 White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Evil Yellow"
+            "value": "Innocent"
         },
         {
             "trait_type": "Headgear",
-            "value": "Cross"
+            "value": "Grenades"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Bloodthirsty"
         },
         {
             "trait_type": "Pendant",

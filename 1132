@@ -1,31 +1,31 @@
 {
     "name": "Purr Evil #1132",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1132.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/4066.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "8"
+            "value": "12"
         },
         {
             "trait_type": "Body",
-            "value": "Body 1 Green"
+            "value": "Tunic Green"
         },
         {
             "trait_type": "Head",
-            "value": "Head 2 Green"
+            "value": "Head 4 White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Evil Hypno"
+            "value": "Angry Blue"
         },
         {
             "trait_type": "Headgear",
-            "value": "Horns 5 Red"
+            "value": "Horns Curly Green"
         },
         {
             "trait_type": "Mouth",
-            "value": "Bloodthirsty"
+            "value": "Predator"
         },
         {
             "trait_type": "Pendant",

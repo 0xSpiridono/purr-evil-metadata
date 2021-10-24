@@ -1,31 +1,31 @@
 {
     "name": "Purr Evil #7700",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/7700.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1178.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "7"
+            "value": "6"
         },
         {
             "trait_type": "Body",
-            "value": "Suit"
+            "value": "Fancy"
         },
         {
             "trait_type": "Head",
-            "value": "Head 4 White"
+            "value": "Head 3 Green"
         },
         {
             "trait_type": "Eyes",
-            "value": "None"
+            "value": "Round Red"
         },
         {
             "trait_type": "Headgear",
-            "value": "VR"
+            "value": "Horns 1 Green"
         },
         {
             "trait_type": "Mouth",
-            "value": "Licker Green"
+            "value": "Grumpy"
         },
         {
             "trait_type": "Pendant",

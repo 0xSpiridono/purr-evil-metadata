@@ -1,15 +1,15 @@
 {
     "name": "Purr Evil #7992",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/7992.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1182.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "9"
+            "value": "6"
         },
         {
             "trait_type": "Body",
-            "value": "Spikes"
+            "value": "Tunic Blue"
         },
         {
             "trait_type": "Head",
@@ -17,15 +17,15 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Grant Us Eyes"
+            "value": "Magenta"
         },
         {
             "trait_type": "Headgear",
-            "value": "Horns 3 Green"
+            "value": "Small Horns Green"
         },
         {
             "trait_type": "Mouth",
-            "value": "Ghoul"
+            "value": "Side Fang"
         },
         {
             "trait_type": "Pendant",

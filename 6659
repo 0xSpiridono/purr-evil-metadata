@@ -1,27 +1,27 @@
 {
     "name": "Purr Evil #6659",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/6659.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1151.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "9"
+            "value": "6"
         },
         {
             "trait_type": "Body",
-            "value": "Bowtie"
+            "value": "Body 2 Teal"
         },
         {
             "trait_type": "Head",
-            "value": "Head 2 Yellow"
+            "value": "Head 1 Teal"
         },
         {
             "trait_type": "Eyes",
-            "value": "Evil Green"
+            "value": "Round Red"
         },
         {
             "trait_type": "Headgear",
-            "value": "Crown of Sorrow"
+            "value": "Tear"
         },
         {
             "trait_type": "Mouth",

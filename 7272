@@ -1,31 +1,31 @@
 {
     "name": "Purr Evil #7272",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/7272.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1169.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "7"
+            "value": "8"
         },
         {
             "trait_type": "Body",
-            "value": "Cyborg"
+            "value": "Body 1 Red"
         },
         {
             "trait_type": "Head",
-            "value": "Head 1 Cyborg"
+            "value": "Head 4 Red"
         },
         {
             "trait_type": "Eyes",
-            "value": "None"
+            "value": "Evil Magenta"
         },
         {
             "trait_type": "Headgear",
-            "value": "VR"
+            "value": "Horns 5 Green"
         },
         {
             "trait_type": "Mouth",
-            "value": "Light Leak Pink"
+            "value": "Gambler"
         },
         {
             "trait_type": "Pendant",

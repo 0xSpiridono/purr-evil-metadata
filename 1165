@@ -1,23 +1,23 @@
 {
     "name": "Purr Evil #1165",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1165.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/7065.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "10"
+            "value": "13"
         },
         {
             "trait_type": "Body",
-            "value": "Rags"
+            "value": "Surgeon"
         },
         {
             "trait_type": "Head",
-            "value": "Head 1 Yellow"
+            "value": "Head 3 White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Black Red"
+            "value": "Scar Eyeball"
         },
         {
             "trait_type": "Headgear",
@@ -25,11 +25,11 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Mouse Eater"
+            "value": "Sharp Grin"
         },
         {
             "trait_type": "Pendant",
-            "value": "Witch"
+            "value": "Cross"
         }
     ]
 }

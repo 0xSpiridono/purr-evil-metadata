@@ -1,35 +1,35 @@
 {
     "name": "Purr Evil #1130",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1130.png",
+    "image": "https://ipfs.io/ipfs/QmUo7tj358xXNJgRsqHGPgkGXN9ZqyNmvFnosxy2Jb56fw?filename=Leviathan%20Unrevealed.PNG",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "8"
+            "value": "66"
         },
         {
             "trait_type": "Body",
-            "value": "Surgeon"
+            "value": "Leviathan"
         },
         {
             "trait_type": "Head",
-            "value": "Head 2 White"
+            "value": "Demon"
         },
         {
             "trait_type": "Eyes",
-            "value": "Evil Yellow Cross"
+            "value": "Demon"
         },
         {
             "trait_type": "Headgear",
-            "value": "Golden Halo"
+            "value": "Demon"
         },
         {
             "trait_type": "Mouth",
-            "value": "Bloodthirsty"
+            "value": "Demon"
         },
         {
             "trait_type": "Pendant",
-            "value": "Witch"
+            "value": "None"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "name": "Purr Evil #1131",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1131.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/2653.png",
     "attributes": [
         {
             "trait_type": "Evilness",
@@ -9,27 +9,27 @@
         },
         {
             "trait_type": "Body",
-            "value": "Body 3 Yellow"
+            "value": "Cyborg"
         },
         {
             "trait_type": "Head",
-            "value": "Head 3 Yellow"
+            "value": "Head 2 Cyborg"
         },
         {
             "trait_type": "Eyes",
-            "value": "Spidey"
+            "value": "None"
         },
         {
             "trait_type": "Headgear",
-            "value": "Horns 2 Magenta"
+            "value": "VR"
         },
         {
             "trait_type": "Mouth",
-            "value": "Bloodthirsty"
+            "value": "Light Leak Pink"
         },
         {
             "trait_type": "Pendant",
-            "value": "Elder Sign"
+            "value": "None"
         }
     ]
 }

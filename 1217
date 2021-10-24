@@ -1,35 +1,35 @@
 {
     "name": "Purr Evil #1217",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1217.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/9179.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "7"
+            "value": "9"
         },
         {
             "trait_type": "Body",
-            "value": "Body 1 Green"
+            "value": "Body 2 Red"
         },
         {
             "trait_type": "Head",
-            "value": "Head 2 Green"
+            "value": "Head 1 Red"
         },
         {
             "trait_type": "Eyes",
-            "value": "Evil Green Cross"
+            "value": "Silly"
         },
         {
             "trait_type": "Headgear",
-            "value": "Horns Curly Red"
+            "value": "Horns 5 Red"
         },
         {
             "trait_type": "Mouth",
-            "value": "Grumpy"
+            "value": "Cannibal Mask"
         },
         {
             "trait_type": "Pendant",
-            "value": "Love"
+            "value": "None"
         }
     ]
 }

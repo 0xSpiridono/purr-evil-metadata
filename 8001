@@ -1,35 +1,35 @@
 {
     "name": "Purr Evil #8001",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/8001.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1183.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "12"
+            "value": "8"
         },
         {
             "trait_type": "Body",
-            "value": "Dracul"
+            "value": "Body 3 Yellow"
         },
         {
             "trait_type": "Head",
-            "value": "Head 1 Green"
+            "value": "Head 2 Yellow"
         },
         {
             "trait_type": "Eyes",
-            "value": "Evil Black"
+            "value": "Goo Red"
         },
         {
             "trait_type": "Headgear",
-            "value": "Horns 4 Bloody"
+            "value": "Horns Curly Red"
         },
         {
             "trait_type": "Mouth",
-            "value": "Grin"
+            "value": "Grumpy"
         },
         {
             "trait_type": "Pendant",
-            "value": "Love"
+            "value": "None"
         }
     ]
 }

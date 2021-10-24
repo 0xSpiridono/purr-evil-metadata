@@ -1,31 +1,31 @@
 {
     "name": "Purr Evil #8746",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/8746.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1205.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "10"
+            "value": "8"
         },
         {
             "trait_type": "Body",
-            "value": "Suit"
+            "value": "Tunic Green"
         },
         {
             "trait_type": "Head",
-            "value": "Head 2 Green"
+            "value": "Head 4 Yellow"
         },
         {
             "trait_type": "Eyes",
-            "value": "Double Iris"
+            "value": "Demon Red"
         },
         {
             "trait_type": "Headgear",
-            "value": "Grenades"
+            "value": "Small Horns Magenta"
         },
         {
             "trait_type": "Mouth",
-            "value": "Goo"
+            "value": "Spiral"
         },
         {
             "trait_type": "Pendant",

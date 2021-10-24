@@ -1,19 +1,19 @@
 {
     "name": "Purr Evil #7663",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/7663.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1176.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "10"
+            "value": "5"
         },
         {
             "trait_type": "Body",
-            "value": "Bowtie"
+            "value": "Body 3 Red"
         },
         {
             "trait_type": "Head",
-            "value": "Head 1 White"
+            "value": "Head 3 Red"
         },
         {
             "trait_type": "Eyes",
@@ -21,15 +21,15 @@
         },
         {
             "trait_type": "Headgear",
-            "value": "Horns 2 Purple"
+            "value": "Horns Curly Purple"
         },
         {
             "trait_type": "Mouth",
-            "value": "Predator"
+            "value": "Grumpy"
         },
         {
             "trait_type": "Pendant",
-            "value": "None"
+            "value": "Cross"
         }
     ]
 }

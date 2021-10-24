@@ -1,31 +1,31 @@
 {
     "name": "Purr Evil #6080",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/6080.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1146.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "7"
+            "value": "12"
         },
         {
             "trait_type": "Body",
-            "value": "Bowtie"
+            "value": "Fancy"
         },
         {
             "trait_type": "Head",
-            "value": "Head 1 Yellow"
+            "value": "Head 3 White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Red"
+            "value": "Double Iris"
         },
         {
             "trait_type": "Headgear",
-            "value": "Golden Halo"
+            "value": "Worms Red"
         },
         {
             "trait_type": "Mouth",
-            "value": "Evil Clown"
+            "value": "Cannibal Mask"
         },
         {
             "trait_type": "Pendant",

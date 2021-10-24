@@ -1,35 +1,35 @@
 {
     "name": "Purr Evil #1170",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1170.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/7297.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "7"
+            "value": "6"
         },
         {
             "trait_type": "Body",
-            "value": "Body 3 Purple"
+            "value": "Fancy"
         },
         {
             "trait_type": "Head",
-            "value": "Head 4 Purple"
+            "value": "Head 4 Green"
         },
         {
             "trait_type": "Eyes",
-            "value": "Red Purple"
+            "value": "Spiral"
         },
         {
             "trait_type": "Headgear",
-            "value": "Worms Green"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
-            "value": "Bloodthirsty"
+            "value": "Cheshire"
         },
         {
             "trait_type": "Pendant",
-            "value": "None"
+            "value": "Love"
         }
     ]
 }

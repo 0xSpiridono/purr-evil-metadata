@@ -1,11 +1,11 @@
 {
     "name": "Purr Evil #6143",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/6143.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1147.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "9"
+            "value": "8"
         },
         {
             "trait_type": "Body",
@@ -13,19 +13,19 @@
         },
         {
             "trait_type": "Head",
-            "value": "Head 1 Green"
+            "value": "Head 1 Teal"
         },
         {
             "trait_type": "Eyes",
-            "value": "Toxic"
+            "value": "Evil Round Purple"
         },
         {
             "trait_type": "Headgear",
-            "value": "Horns 2 Red"
+            "value": "Thorns"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cheshire"
+            "value": "Hissing"
         },
         {
             "trait_type": "Pendant",

@@ -1,35 +1,35 @@
 {
     "name": "Purr Evil #1190",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1190.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/8355.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "6"
+            "value": "7"
         },
         {
             "trait_type": "Body",
-            "value": "Body 1 Teal"
+            "value": "Body 2 Green"
         },
         {
             "trait_type": "Head",
-            "value": "Head 2 Teal"
+            "value": "Head 3 Green"
         },
         {
             "trait_type": "Eyes",
-            "value": "Cage"
+            "value": "Round Green"
         },
         {
             "trait_type": "Headgear",
-            "value": "Steroids"
+            "value": "Worms Green"
         },
         {
             "trait_type": "Mouth",
-            "value": "Light Leak Pink"
+            "value": "Light"
         },
         {
             "trait_type": "Pendant",
-            "value": "Cross"
+            "value": "None"
         }
     ]
 }

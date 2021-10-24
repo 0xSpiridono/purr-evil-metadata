@@ -1,31 +1,31 @@
 {
     "name": "Purr Evil #8718",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/8718.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1202.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "9"
+            "value": "6"
         },
         {
             "trait_type": "Body",
-            "value": "Body 1 Green"
+            "value": "Body 1 White"
         },
         {
             "trait_type": "Head",
-            "value": "Head 1 Green"
+            "value": "Head 2 White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Skulls Red"
+            "value": "Evil Yellow"
         },
         {
             "trait_type": "Headgear",
-            "value": "Horns 2 Magenta"
+            "value": "Small Horns Magenta"
         },
         {
             "trait_type": "Mouth",
-            "value": "Bloodthirsty"
+            "value": "Mouse Eater"
         },
         {
             "trait_type": "Pendant",

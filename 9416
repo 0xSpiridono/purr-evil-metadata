@@ -1,35 +1,35 @@
 {
     "name": "Purr Evil #9416",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/9416.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1223.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "8"
+            "value": "7"
         },
         {
             "trait_type": "Body",
-            "value": "Rags"
+            "value": "Body 1 Purple"
         },
         {
             "trait_type": "Head",
-            "value": "Head 1 White"
+            "value": "Head 3 Purple"
         },
         {
             "trait_type": "Eyes",
-            "value": "Cage"
+            "value": "White"
         },
         {
             "trait_type": "Headgear",
-            "value": "Small Horns Magenta"
+            "value": "Pentagram"
         },
         {
             "trait_type": "Mouth",
-            "value": "Grin"
+            "value": "Sharp Grin"
         },
         {
             "trait_type": "Pendant",
-            "value": "Elder Sign"
+            "value": "None"
         }
     ]
 }

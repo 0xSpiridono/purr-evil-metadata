@@ -1,35 +1,35 @@
 {
     "name": "Purr Evil #1189",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1189.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/8316.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "6"
+            "value": "11"
         },
         {
             "trait_type": "Body",
-            "value": "Body 3 Green"
+            "value": "Rags"
         },
         {
             "trait_type": "Head",
-            "value": "Head 1 Green"
+            "value": "Head 2 Yellow"
         },
         {
             "trait_type": "Eyes",
-            "value": "Round Magenta"
+            "value": "Five Eyes"
         },
         {
             "trait_type": "Headgear",
-            "value": "Horns Curly Purple"
+            "value": "Iron Halo"
         },
         {
             "trait_type": "Mouth",
-            "value": "Ghoul"
+            "value": "Bloody"
         },
         {
             "trait_type": "Pendant",
-            "value": "Love"
+            "value": "None"
         }
     ]
 }

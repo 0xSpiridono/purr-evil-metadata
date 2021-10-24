@@ -1,7 +1,7 @@
 {
     "name": "Purr Evil #5286",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/5286.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1139.png",
     "attributes": [
         {
             "trait_type": "Evilness",
@@ -9,27 +9,27 @@
         },
         {
             "trait_type": "Body",
-            "value": "Padre"
+            "value": "Fancy"
         },
         {
             "trait_type": "Head",
-            "value": "Head 4 White"
+            "value": "Head 1 Teal"
         },
         {
             "trait_type": "Eyes",
-            "value": "Rockstar"
+            "value": "Snake"
         },
         {
             "trait_type": "Headgear",
-            "value": "Horns 2 Red"
+            "value": "Horns Straight"
         },
         {
             "trait_type": "Mouth",
-            "value": "Tame"
+            "value": "Side Fang"
         },
         {
             "trait_type": "Pendant",
-            "value": "None"
+            "value": "Cross"
         }
     ]
 }

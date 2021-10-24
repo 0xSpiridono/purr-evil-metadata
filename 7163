@@ -1,35 +1,35 @@
 {
     "name": "Purr Evil #7163",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/7163.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1167.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "14"
+            "value": "7"
         },
         {
             "trait_type": "Body",
-            "value": "Dracul"
+            "value": "Body 3 Red"
         },
         {
             "trait_type": "Head",
-            "value": "Head 2 Purple"
+            "value": "Head 4 Red"
         },
         {
             "trait_type": "Eyes",
-            "value": "Goo Red"
+            "value": "Evil Yellow Cross"
         },
         {
             "trait_type": "Headgear",
-            "value": "Horns 5 Red"
+            "value": "Probe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Hissing"
         },
         {
             "trait_type": "Pendant",
-            "value": "None"
+            "value": "Cross"
         }
     ]
 }

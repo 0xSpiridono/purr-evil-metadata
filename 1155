@@ -1,35 +1,35 @@
 {
     "name": "Purr Evil #1155",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1155.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/6717.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "11"
+            "value": "8"
         },
         {
             "trait_type": "Body",
-            "value": "Padre"
+            "value": "Bowtie"
         },
         {
             "trait_type": "Head",
-            "value": "Head 4 Green"
+            "value": "Head 2 White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Evil Green Cross"
+            "value": "Evil Hypno"
         },
         {
             "trait_type": "Headgear",
-            "value": "Spikes"
+            "value": "Golden Halo"
         },
         {
             "trait_type": "Mouth",
-            "value": "Nails"
+            "value": "Cheshire"
         },
         {
             "trait_type": "Pendant",
-            "value": "Witch"
+            "value": "None"
         }
     ]
 }

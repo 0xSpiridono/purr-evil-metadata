@@ -1,35 +1,35 @@
 {
     "name": "Purr Evil #9163",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/9163.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1216.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "11"
+            "value": "8"
         },
         {
             "trait_type": "Body",
-            "value": "Tunic Blue"
+            "value": "Body 1 White"
         },
         {
             "trait_type": "Head",
-            "value": "Head 4 White"
+            "value": "Head 2 White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Spider"
+            "value": "White"
         },
         {
             "trait_type": "Headgear",
-            "value": "Horns Curly Red"
+            "value": "Horns 2 Purple"
         },
         {
             "trait_type": "Mouth",
-            "value": "Mouse Eater"
+            "value": "Licker Green"
         },
         {
             "trait_type": "Pendant",
-            "value": "None"
+            "value": "Love"
         }
     ]
 }

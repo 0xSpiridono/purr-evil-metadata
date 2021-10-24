@@ -1,7 +1,7 @@
 {
     "name": "Purr Evil #1184",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1184.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/8218.png",
     "attributes": [
         {
             "trait_type": "Evilness",
@@ -13,19 +13,19 @@
         },
         {
             "trait_type": "Head",
-            "value": "Head 1 Red"
+            "value": "Head 2 Red"
         },
         {
             "trait_type": "Eyes",
-            "value": "Round Magenta"
+            "value": "Round Red"
         },
         {
             "trait_type": "Headgear",
-            "value": "Horns Curly Red"
+            "value": "Crown of Sorrow"
         },
         {
             "trait_type": "Mouth",
-            "value": "Light"
+            "value": "Hissing"
         },
         {
             "trait_type": "Pendant",

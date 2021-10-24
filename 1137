@@ -1,31 +1,31 @@
 {
     "name": "Purr Evil #1137",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1137.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/4675.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "8"
+            "value": "10"
         },
         {
             "trait_type": "Body",
-            "value": "Body 3 Teal"
+            "value": "Tunic Green"
         },
         {
             "trait_type": "Head",
-            "value": "Head 2 Teal"
+            "value": "Head 3 Yellow"
         },
         {
             "trait_type": "Eyes",
-            "value": "Demon Red"
+            "value": "Cyborg"
         },
         {
             "trait_type": "Headgear",
-            "value": "Horns Curly Green"
+            "value": "Horns 4 Bloody"
         },
         {
             "trait_type": "Mouth",
-            "value": "Side Fang"
+            "value": "Nails"
         },
         {
             "trait_type": "Pendant",

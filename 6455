@@ -1,19 +1,19 @@
 {
     "name": "Purr Evil #6455",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/6455.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1149.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "10"
+            "value": "8"
         },
         {
             "trait_type": "Body",
-            "value": "Suit"
+            "value": "Rags"
         },
         {
             "trait_type": "Head",
-            "value": "Head 1 Red"
+            "value": "Head 3 Teal"
         },
         {
             "trait_type": "Eyes",
@@ -21,15 +21,15 @@
         },
         {
             "trait_type": "Headgear",
-            "value": "Spikes"
+            "value": "Pentagram"
         },
         {
             "trait_type": "Mouth",
-            "value": "Rabid"
+            "value": "Side Fang"
         },
         {
             "trait_type": "Pendant",
-            "value": "Witch"
+            "value": "None"
         }
     ]
 }

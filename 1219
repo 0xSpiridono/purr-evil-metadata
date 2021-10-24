@@ -1,31 +1,31 @@
 {
     "name": "Purr Evil #1219",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1219.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/9309.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "8"
+            "value": "6"
         },
         {
             "trait_type": "Body",
-            "value": "Suit"
+            "value": "Fancy"
         },
         {
             "trait_type": "Head",
-            "value": "Head 3 Yellow"
+            "value": "Head 2 White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Red"
+            "value": "None"
         },
         {
             "trait_type": "Headgear",
-            "value": "Horns Curly Green"
+            "value": "VR"
         },
         {
             "trait_type": "Mouth",
-            "value": "Evil Clown"
+            "value": "Bloodthirsty"
         },
         {
             "trait_type": "Pendant",

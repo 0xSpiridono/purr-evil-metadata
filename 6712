@@ -1,35 +1,35 @@
 {
     "name": "Purr Evil #6712",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/6712.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1154.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "10"
+            "value": "8"
         },
         {
             "trait_type": "Body",
-            "value": "Body 3 Green"
+            "value": "Padre"
         },
         {
             "trait_type": "Head",
-            "value": "Head 2 Green"
+            "value": "Head 2 White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Red Smoke"
+            "value": "Evil Yellow Cross"
         },
         {
             "trait_type": "Headgear",
-            "value": "Worms Red"
+            "value": "Horns 1 Red"
         },
         {
             "trait_type": "Mouth",
-            "value": "Light"
+            "value": "Ghoul"
         },
         {
             "trait_type": "Pendant",
-            "value": "Cross"
+            "value": "None"
         }
     ]
 }

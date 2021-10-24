@@ -1,7 +1,7 @@
 {
     "name": "Purr Evil #1153",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1153.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/6711.png",
     "attributes": [
         {
             "trait_type": "Evilness",
@@ -9,27 +9,27 @@
         },
         {
             "trait_type": "Body",
-            "value": "Rags"
+            "value": "Dracul"
         },
         {
             "trait_type": "Head",
-            "value": "Head 3 Purple"
+            "value": "Head 1 White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Goo Red"
+            "value": "Round Green"
         },
         {
             "trait_type": "Headgear",
-            "value": "Horns 2 Red"
+            "value": "Horns 1 Bloody"
         },
         {
             "trait_type": "Mouth",
-            "value": "Light"
+            "value": "Tentacles Green"
         },
         {
             "trait_type": "Pendant",
-            "value": "Cross"
+            "value": "Elder Sign"
         }
     ]
 }

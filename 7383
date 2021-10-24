@@ -1,35 +1,35 @@
 {
     "name": "Purr Evil #7383",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/7383.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1171.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "6"
+            "value": "9"
         },
         {
             "trait_type": "Body",
-            "value": "Bowtie"
+            "value": "Body 3 Yellow"
         },
         {
             "trait_type": "Head",
-            "value": "Head 4 Green"
+            "value": "Head 1 Yellow"
         },
         {
             "trait_type": "Eyes",
-            "value": "None"
+            "value": "Rockstar"
         },
         {
             "trait_type": "Headgear",
-            "value": "Hockey Mask"
+            "value": "Horns Straight"
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Light"
         },
         {
             "trait_type": "Pendant",
-            "value": "None"
+            "value": "Cross"
         }
     ]
 }

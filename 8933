@@ -1,7 +1,7 @@
 {
     "name": "Purr Evil #8933",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/8933.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1211.png",
     "attributes": [
         {
             "trait_type": "Evilness",
@@ -9,23 +9,23 @@
         },
         {
             "trait_type": "Body",
-            "value": "Cyborg"
+            "value": "Body 2 Purple"
         },
         {
             "trait_type": "Head",
-            "value": "Head 2 Cyborg"
+            "value": "Head 2 Purple"
         },
         {
             "trait_type": "Eyes",
-            "value": "Toxic"
+            "value": "Angry Yellow"
         },
         {
             "trait_type": "Headgear",
-            "value": "Steroids"
+            "value": "Horns 2 Magenta"
         },
         {
             "trait_type": "Mouth",
-            "value": "Bars"
+            "value": "Bloodthirsty"
         },
         {
             "trait_type": "Pendant",

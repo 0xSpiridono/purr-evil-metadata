@@ -1,35 +1,35 @@
 {
     "name": "Purr Evil #1145",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1145.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/5979.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "9"
+            "value": "7"
         },
         {
             "trait_type": "Body",
-            "value": "Body 2 Yellow"
+            "value": "Body 3 White"
         },
         {
             "trait_type": "Head",
-            "value": "Head 4 Yellow"
+            "value": "Head 4 White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Green"
+            "value": "Evil Round Red"
         },
         {
             "trait_type": "Headgear",
-            "value": "Worms Red"
+            "value": "Iron Halo"
         },
         {
             "trait_type": "Mouth",
-            "value": "Predator"
+            "value": "Long Tentacle Red"
         },
         {
             "trait_type": "Pendant",
-            "value": "Pentagram"
+            "value": "None"
         }
     ]
 }

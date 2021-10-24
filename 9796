@@ -1,15 +1,15 @@
 {
     "name": "Purr Evil #9796",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/9796.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1229.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "8"
+            "value": "11"
         },
         {
             "trait_type": "Body",
-            "value": "Fancy"
+            "value": "Rags"
         },
         {
             "trait_type": "Head",
@@ -17,7 +17,7 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Round Green"
+            "value": "Evil Green Cross"
         },
         {
             "trait_type": "Headgear",
@@ -25,11 +25,11 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Bloodthirsty"
+            "value": "Tentacles Green"
         },
         {
             "trait_type": "Pendant",
-            "value": "None"
+            "value": "Pentagram"
         }
     ]
 }

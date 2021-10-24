@@ -1,7 +1,7 @@
 {
     "name": "Purr Evil #1156",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1156.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/6719.png",
     "attributes": [
         {
             "trait_type": "Evilness",
@@ -9,23 +9,23 @@
         },
         {
             "trait_type": "Body",
-            "value": "Body 2 Yellow"
+            "value": "Body 1 Green"
         },
         {
             "trait_type": "Head",
-            "value": "Head 2 Yellow"
+            "value": "Head 2 Green"
         },
         {
             "trait_type": "Eyes",
-            "value": "Rockstar"
+            "value": "Skulls Red"
         },
         {
             "trait_type": "Headgear",
-            "value": "Horns Curly Green"
+            "value": "Cross"
         },
         {
             "trait_type": "Mouth",
-            "value": "Long Tentacle Green"
+            "value": "Side Fang"
         },
         {
             "trait_type": "Pendant",

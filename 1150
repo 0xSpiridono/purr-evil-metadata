@@ -1,7 +1,7 @@
 {
     "name": "Purr Evil #1150",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1150.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/6625.png",
     "attributes": [
         {
             "trait_type": "Evilness",
@@ -9,27 +9,27 @@
         },
         {
             "trait_type": "Body",
-            "value": "Body 3 White"
+            "value": "Tunic Blue"
         },
         {
             "trait_type": "Head",
-            "value": "Head 4 White"
+            "value": "Head 1 Purple"
         },
         {
             "trait_type": "Eyes",
-            "value": "Rockstar"
+            "value": "Evil Hypno"
         },
         {
             "trait_type": "Headgear",
-            "value": "Small Horns Red"
+            "value": "Brain"
         },
         {
             "trait_type": "Mouth",
-            "value": "Light"
+            "value": "Long Tentacle Green"
         },
         {
             "trait_type": "Pendant",
-            "value": "None"
+            "value": "Cross"
         }
     ]
 }

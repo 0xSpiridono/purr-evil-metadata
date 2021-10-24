@@ -1,35 +1,35 @@
 {
     "name": "Purr Evil #1196",
     "external_link": "https://purrevil.cat/",
-    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/1196.png",
+    "image": "https://ipfs.io/ipfs/QmdYBC8Qk2t7Zvtk1CvKJsNGbvJLFKXXcfdGTr5QAoGxnc/8618.png",
     "attributes": [
         {
             "trait_type": "Evilness",
-            "value": "6"
+            "value": "10"
         },
         {
             "trait_type": "Body",
-            "value": "Body 2 Red"
+            "value": "Dracul"
         },
         {
             "trait_type": "Head",
-            "value": "Head 2 Red"
+            "value": "Head 3 White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Spidey"
+            "value": "Evil Hypno"
         },
         {
             "trait_type": "Headgear",
-            "value": "Small Horns Red"
+            "value": "Horns 1 Red"
         },
         {
             "trait_type": "Mouth",
-            "value": "Licker Green"
+            "value": "Bloodthirsty"
         },
         {
             "trait_type": "Pendant",
-            "value": "None"
+            "value": "Elder Sign"
         }
     ]
 }
